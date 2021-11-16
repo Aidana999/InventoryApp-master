@@ -4,8 +4,9 @@ My application is designed for entrepreneurs who need to keep track of their goo
 Programming language: Java, SQLite - database
 
 Libraries: Glide, Room, ListView, RecyclarView, Google Design 
-![102683108-ca7fcc80-41f8-11eb-9214-bb2ce9baa6ca](https://user-images.githubusercontent.com/49874037/142040879-963c16dd-f58f-4961-9a5a-3a3146160683.png)
-![102683056-58a78300-41f8-11eb-9faa-fd4c603aa5be](https://user-images.githubusercontent.com/49874037/142040894-b59286b6-bd1a-4843-b82a-7a1c6cdcb1b8.png)
-![102683057-59401980-41f8-11eb-9134-ef6733221fea](https://user-images.githubusercontent.com/49874037/142040908-16622867-c535-490b-8eb9-0c948d1a9a45.png)
-![102683060-59d8b000-41f8-11eb-9de5-8acd57c2b94f](https://user-images.githubusercontent.com/49874037/142040923-8a2dbb3f-9f4e-4ca0-8ba7-4be06b0f087c.png)
-![102683061-59d8b000-41f8-11eb-85e3-b57061dffc0d](https://user-images.githubusercontent.com/49874037/142040933-ee79ac8b-3088-4d32-8be2-f85441b0f1e3.png)
+
+![photo_2021-11-17_00-06-21](https://user-images.githubusercontent.com/49874037/142041214-3fbb1f58-f5ca-44d3-a290-291280ee192b.jpg)
+![photo_2021-11-17_00-06-30](https://user-images.githubusercontent.com/49874037/142041215-a24af4d2-8ff8-451f-8f87-014467cf347e.jpg)
+![photo_2021-11-17_00-06-38](https://user-images.githubusercontent.com/49874037/142041232-850217dc-67bc-4413-8f6d-0fd5a71764de.jpg)
+![photo_2021-11-17_00-06-45](https://user-images.githubusercontent.com/49874037/142041238-ac34f4f6-823d-4e0d-a702-28d35a1fd357.jpg)
+![photo_2021-11-17_00-06-55](https://user-images.githubusercontent.com/49874037/142041243-204337c3-e3dc-40dd-ae04-e997c21c923d.jpg)
